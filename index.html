@@ -17,6 +17,33 @@ permalink: /
                 <a class="navbar-brand" href="#page-top" id="i18_title"><span data-i18n="website.title">{{ site.title }}</span></a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav navbar-right" id="i18_navbar">
+                  <li>
+                    <a class="page-scroll" href="#about-me">
+                      <span data-i18n="nav.about_me">About</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a class="page-scroll" href="#about-me">
+                      <a href="{{ "/blog/" | prepend: site.baseurl }}"><span data-i18n="nav.blog">Blog</span></a>
+                    </a>
+                  </li>
+                  <li>
+                    <a class="page-scroll" href="#career">
+                      <span data-i18n="nav.career">Career</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a class="page-scroll" href="#skills">
+                      <span data-i18n="nav.skills">Skills</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a class="page-scroll" href="#links">
+                      <span data-i18n="nav.link">Links</span>
+                    </a>
+                  </li>
+              </ul>
                 <ul class="nav navbar-nav navbar-right" id="i18_navbar">
                 {% for section in site.data.landing %}
                     <li>
