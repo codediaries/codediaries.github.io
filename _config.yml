@@ -1,19 +1,19 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Jalpc
-description: Jack's blog,use Jekyll and github pages.
-keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
-baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: http://jarrekk.github.io/Jalpc  # url should be changed to 'http://www.jack003.com/homepage' as before
+title: CodeDiaries
+description: Code Diaries - Blog
+keywords: blog,Codediaries,github,gh-pages
+baseurl: https://codediaries.github.io # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: https://codediaries.github.io  # url should be changed to 'http://www.jack003.com/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /Jalpc/static/assets/img/blog  # url should be changed to '/homepage/static/assets/img/blog' as before
+img_path: /static/assets/img/blog  # url should be changed to '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
+  name: codediaries  # Be used at blog posts' author.
+  first_name: Kishan  # Be used at index page about me section.
+  last_name: Rajdev  # Be used at index page about me section.
   cv: http://cv.jack003.com  # A online CV can be printed as PDF, leave blank if you don't have now
   email: me@jack003.com  # Leave blank if you don't have now
   facebook_username: jiakunnj  # Leave blank if you don't have now
@@ -29,8 +29,8 @@ author:  # change following line to your infomation.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
-  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
+ # name: jalpc
+ # public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
 
 # analytics
 ## google analytics
@@ -42,7 +42,7 @@ gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your 
   # id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+# donation: on  # type 'on'/'off' to choice display donation button at post page or not
 
 
 # Build settings
