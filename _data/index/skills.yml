@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Git, Javascript, PHP, Node.js, Linux
-percentage: 80, 60, 65, 30, 60
+aspects: Git, Javascript, PHP, Node.js, SQL, Linux
+percentage: 80, 60, 65, 30, 60, 60

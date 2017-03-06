@@ -4,7 +4,7 @@
     detail: Wingify
     i18n: wingify
   desc:
-    detail: Cueently working here on some exciting stuff.
+    detail: working on some exciting stuff.
     i18n: wingify_desc
   date:
     detail: Dec. 2015
@@ -18,7 +18,7 @@
     detail: Pepperfry
     i18n: pepperfry
   desc:
-    detail: It is online furniture store in India. Worked here for a year. Have worked on building API's for their app and some new features.
+    detail: It's an online furniture store in India. I worked here for a year. Have worked on building API's for their app and some new features.
     i18n: pepperfry_desc
   date:
     detail: Dec. 2014
