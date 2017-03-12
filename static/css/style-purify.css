@@ -1008,6 +1008,14 @@ code {
   padding-top: 40px;
 }
 
+.logo-name {
+  color: #e6e6e6;
+  font-size: 180px;
+  font-weight: 800;
+  letter-spacing: -10px;
+  margin-bottom: 0;
+}
+
 .middle-box h1 {
   font-size: 170px;
 }
@@ -1698,10 +1706,10 @@ body.landing-page {
 }
 
 .landing-page .navbar.navbar-scroll .navbar-brand {
-  margin-top: 15px;
+  /*margin-top: 15px;*/
   border-radius: 5px;
-  font-size: 12px;
-  padding: 10px;
+  font-size: 14px;
+  /*padding: 10px;*/
   height: auto;
 }
 

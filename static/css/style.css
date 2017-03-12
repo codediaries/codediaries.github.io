@@ -7474,10 +7474,10 @@ body.landing-page {
 }
 
 .landing-page .navbar.navbar-scroll .navbar-brand {
-    margin-top: 15px;
+    /*margin-top: 15px;*/
     border-radius: 5px;
-    font-size: 12px;
-    padding: 10px;
+    font-size: 14px;
+    /*padding: 10px;*/
     height: auto
 }
 
