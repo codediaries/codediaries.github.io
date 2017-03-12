@@ -20,8 +20,7 @@ module.exports = {
             'node_modules/chart.js/dist/Chart.js',
             'node_modules/pace-progress/pace.js',
             'node_modules/wowjs/dist/wow.js',
-            'static/js/scroll.js',
-            'static/js/count.js'
+            'static/js/scroll.js'
         ]
     }, {
         name: 'i18next page',
@@ -46,8 +45,7 @@ module.exports = {
             'node_modules/peity/jquery.peity.js',
             'node_modules/pace-progress/pace.js',
             'node_modules/wowjs/dist/wow.js',
-            'static/js/scroll.js',
-            'static/js/count.js'
+            'static/js/scroll.js'
         ]
     }, {
         name: 'blog pages\' jPage',
@@ -73,7 +71,8 @@ module.exports = {
             'search/css/cb-search.css',
             'static/css/pygments.css',
             // 'static/css/style.css'
-            'static/css/style-purify.css'
+            'static/css/style-purify.css',
+            'static/css/custom.css'
         ]
     }]
 }
