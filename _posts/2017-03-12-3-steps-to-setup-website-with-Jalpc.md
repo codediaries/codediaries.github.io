@@ -4,8 +4,8 @@ title:  "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc"
 date:   2017-03-12
 desc: "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [php]
-tags: [Jalpc,Jekyll]
+categories: [PHP]
+tags: [PHP,Blog]
 icon: icon-html
 ---
 
