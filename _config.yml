@@ -16,7 +16,7 @@ author:  # change following line to your infomation.
   name: Kishan Rajdev  # Be used at blog posts' author.
   first_name: Kishan  # Be used at index page about me section.
   last_name: Rajdev  # Be used at index page about me section.
-  cv: http://cv.jack003.com  # A online CV can be printed as PDF, leave blank if you don't have now
+  cv: /resume.pdf  # A online CV can be printed as PDF, leave blank if you don't have now
   email: kishanrajdev047@gmail.com  # Leave blank if you don't have now
   facebook_username: kishanrajdev  # Leave blank if you don't have now
   github_username: codediaries  # Leave blank if you don't have now
