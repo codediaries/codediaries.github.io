@@ -4,9 +4,9 @@
 title: CodeDiaries
 description: Code Diaries - Blog
 keywords: blog,Codediaries,github,gh-pages
-baseurl: https://codediaries.github.io # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+baseurl: https://codediaries.in # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 #baseurl: http://127.0.0.1:4000 # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://codediaries.github.io  # url should be changed to 'http://www.jack003.com/homepage' as before
+url: https://codediaries.in  # url should be changed to 'http://www.jack003.com/homepage' as before
 #url: http://127.0.0.1:4000
 logo: /static/assets/img/logo.png
 img_path: /static/assets/img/blog  # url should be changed to '/homepage/static/assets/img/blog' as before
